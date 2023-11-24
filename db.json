@@ -2,10 +2,10 @@
   "orders": [
     {
       "orderNumber": "987654321",
+      "email": "indy@adventures-r-us.com",
       "customer": {
         "firstName": "Indiana",
         "lastName": "Jones",
-        "email": "indy@adventures-r-us.com",
         "phone": "+44 20 1234 5678"
       },
       "billingAddress": {
@@ -52,10 +52,10 @@
     },
     {
       "orderNumber": "987654322",
+      "email": "indy@adventures-r-us.com",
       "customer": {
         "firstName": "Indiana",
         "lastName": "Jones",
-        "email": "indy@adventures-r-us.com",
         "phone": "+44 20 1234 5678"
       },
       "billingAddress": {
