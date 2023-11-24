@@ -65,9 +65,9 @@
         "country": "United Kingdom"
       },
       "shippingAddress": {
-        "street": "28 Park Avenue",
-        "city": "Aberdeen",
-        "postalCode": "AB2 1AB",
+        "street": "1 Ashmeade Close",
+        "city": "York",
+        "postalCode": "YO2 2YB",
         "country": "United Kingdom"
       },
       "orderDate": "2023-11-22T15:30:00Z",
