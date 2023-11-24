@@ -1,52 +1,88 @@
 {
-    "orders": {
-        "orderNumber": "987654321",
-        "customer": {
-            "firstName": "Indiana",
-            "lastName": "Jones",
-            "email": "indy@adventures-r-us.com",
-            "phone": "+44 20 1234 5678"
-        },
-        "billingAddress": {
-            "street": "42 High Street",
-            "city": "London",
-            "postalCode": "W1A 1AA",
-            "country": "United Kingdom"
-        },
-        "shippingAddress": {
-            "street": "28 Park Avenue",
-            "city": "Aberdeen",
-            "postalCode": "AB2 1AB",
-            "country": "United Kingdom"
-        },
-        "orderDate": "2023-10-12T15:30:00Z",
-        "items": [
-            {
-                "product": "Fedora Hat",
-                "quantity": 1,
-                "unitPrice": 20.99,
-                "subtotal": 20.99,
-                "image": "https://www.indianajones.store/cdn/shop/products/indy-hat-4.jpg?v=1592042803"
-            },
-            {
-                "product": "Holy Grail",
-                "quantity": 1,
-                "unitPrice": 199.99,
-                "subtotal": 199.99,
-                "image": "https://www.indygear.com/images/props/grail/grail2.jpg"
-            },
-            {
-                "product": "Brown Leather Jacket",
-                "quantity": 2,
-                "unitPrice": 249.99,
-                "subtotal": 499.98,
-                "image": "https://www.indianajones.store/cdn/shop/products/raiders-hero-web-res-5.jpg?v=1639237894"
-            }
-        ],
-        "shippingMethod": "Express Delivery",
-        "orderTotal": 320.96,
-        "paymentMethod": "PayPal",
-        "paymentStatus": "Paid",
-        "fulfillmentStatus": "Shipped"
-    }
+  "orders": {
+      "orderNumber": "987654321",
+      "customer": {
+          "firstName": "Indiana",
+          "lastName": "Jones",
+          "email": "indy@adventures-r-us.com",
+          "phone": "+44 20 1234 5678"
+      },
+      "billingAddress": {
+          "street": "42 High Street",
+          "city": "London",
+          "postalCode": "W1A 1AA",
+          "country": "United Kingdom"
+      },
+      "shippingAddress": {
+          "street": "28 Park Avenue",
+          "city": "Aberdeen",
+          "postalCode": "AB2 1AB",
+          "country": "United Kingdom"
+      },
+      "orderDate": "2023-10-12T15:30:00Z",
+      "items": [
+          {
+              "product": "Fedora Hat",
+              "quantity": 1,
+              "unitPrice": 20.99,
+              "subtotal": 20.99,
+              "image": "https://www.indianajones.store/cdn/shop/products/indy-hat-4.jpg?v=1592042803"
+          },
+          {
+              "product": "Holy Grail",
+              "quantity": 1,
+              "unitPrice": 199.99,
+              "subtotal": 199.99,
+              "image": "https://www.indygear.com/images/props/grail/grail2.jpg"
+          },
+          {
+              "product": "Brown Leather Jacket",
+              "quantity": 2,
+              "unitPrice": 249.99,
+              "subtotal": 499.98,
+              "image": "https://www.indianajones.store/cdn/shop/products/raiders-hero-web-res-5.jpg?v=1639237894"
+          }
+      ],
+      "shippingMethod": "Express Delivery",
+      "orderTotal": 320.96,
+      "paymentMethod": "PayPal",
+      "paymentStatus": "Paid",
+      "fulfillmentStatus": "Shipped"
+  },
+  {
+    "orderNumber": "987654322",
+    "customer": {
+        "firstName": "Indiana",
+        "lastName": "Jones",
+        "email": "indy@adventures-r-us.com",
+        "phone": "+44 20 1234 5678"
+    },
+    "billingAddress": {
+        "street": "42 High Street",
+        "city": "London",
+        "postalCode": "W1A 1AA",
+        "country": "United Kingdom"
+    },
+    "shippingAddress": {
+        "street": "28 Park Avenue",
+        "city": "Aberdeen",
+        "postalCode": "AB2 1AB",
+        "country": "United Kingdom"
+    },
+    "orderDate": "2023-11-22T15:30:00Z",
+    "items": [
+        {
+            "product": "Hamilton Boulton Watch",
+            "quantity": 1,
+            "unitPrice": 690.00,
+            "subtotal": 690.00,
+            "image": "https://d1rkccsb0jf1bk.cloudfront.net/products/100052274/main/large/H13431553.jpg"
+        }
+    ],
+    "shippingMethod": "Express Delivery",
+    "orderTotal": 690.00,
+    "paymentMethod": "PayPal",
+    "paymentStatus": "Paid",
+    "fulfillmentStatus": "Shipped"
 }
+
