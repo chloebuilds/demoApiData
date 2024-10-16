@@ -1,8 +1,8 @@
 {
-  "email": "indy@adventures-r-us.com",
   "orders": [
     {
       "orderNumber": "987654321",
+      "email": "indy@adventures-r-us.com",
       "customer": {
         "firstName": "Indiana",
         "lastName": "Jones",
@@ -52,11 +52,12 @@
       "actualDispatchDate": "2024-10-13T00:00:00.000Z",
       "fulfillmentStatus": "SHIPPED",
       "deliveryMethodId": "EVRI-UK_48",
-      "deliveryMethodName": "Evri UK 48 Hour",
-      "fullTrackingUrl": "https://www.evri.com/en/standard/delivery.html?id=00340434267995634065"
+            "deliveryMethodName": "Evri UK 48 Hour",
+            "fullTrackingUrl": "https://www.evri.com/en/standard/delivery.html?id=00340434267995634065"
     },
     {
       "orderNumber": "987654322",
+      "email": "indy@adventures-r-us.com",
       "customer": {
         "firstName": "Indiana",
         "lastName": "Jones",
@@ -92,8 +93,8 @@
       "actualDispatchDate": "2024-11-22T00:00:00.000Z",
       "fulfillmentStatus": "DELIVERED",
       "deliveryMethodId": "EVRI-UK_ND",
-      "deliveryMethodName": "Evri UK Next Day",
-      "fullTrackingUrl": "https://www.evri.com/en/nextday/delivery.html?id=00340434267995634065"
+            "deliveryMethodName": "Evri UK Next Day",
+            "fullTrackingUrl": "https://www.evri.com/en/nextday/delivery.html?id=00340434267995634065"
     }
   ]
 }
