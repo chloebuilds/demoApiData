@@ -20,7 +20,7 @@
         "postalCode": "AB2 1AB",
         "country": "United Kingdom"
       },
-      "orderDate": "2023-10-12T15:30:00Z",
+      "orderDate": "2024-10-10T15:30:00Z",
       "items": [
         {
           "product": "Fedora Hat",
@@ -44,11 +44,16 @@
           "image": "https://www.indianajones.store/cdn/shop/products/raiders-hero-web-res-5.jpg?v=1639237894"
         }
       ],
-      "shippingMethod": "Express Delivery",
+      "shippingMethod": "Standard Delivery",
       "orderTotal": 320.96,
       "paymentMethod": "PayPal",
       "paymentStatus": "Paid",
-      "fulfillmentStatus": "Shipped"
+      "estimatedDispatchDate": "2024-10-13T00:00:00.000Z",
+      "actualDispatchDate": "2024-10-13T00:00:00.000Z",
+      "fulfillmentStatus": "SHIPPED",
+      "deliveryMethodId": "EVRI-UK_48",
+            "deliveryMethodName": "Evri UK 48 Hour",
+            "fullTrackingUrl": "https://www.evri.com/en/standard/delivery.html?id=00340434267995634065"
     },
     {
       "orderNumber": "987654322",
@@ -70,7 +75,7 @@
         "postalCode": "YO2 2YB",
         "country": "United Kingdom"
       },
-      "orderDate": "2023-11-22T15:30:00Z",
+      "orderDate": "2024-11-22T11:30:00Z",
       "items": [
         {
           "product": "Hamilton Boulton Watch",
@@ -82,9 +87,14 @@
       ],
       "shippingMethod": "Express Delivery",
       "orderTotal": 690.00,
-      "paymentMethod": "PayPal",
+      "paymentMethod": "AMEX",
       "paymentStatus": "Paid",
-      "fulfillmentStatus": "Shipped"
+      "estimatedDispatchDate": "2024-11-22T00:00:00.000Z",
+      "actualDispatchDate": "2024-11-22T00:00:00.000Z",
+      "fulfillmentStatus": "DELIVERED",
+      "deliveryMethodId": "EVRI-UK_ND",
+            "deliveryMethodName": "Evri UK Next Day",
+            "fullTrackingUrl": "https://www.evri.com/en/nextday/delivery.html?id=00340434267995634065"
     }
   ]
 }
