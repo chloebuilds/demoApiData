@@ -44,16 +44,16 @@
           "image": "https://www.indianajones.store/cdn/shop/products/raiders-hero-web-res-5.jpg?v=1639237894"
         }
       ],
-      "shippingMethod": "Standard Delivery",
+      "shippingMethod": "Express Delivery",
       "orderTotal": 320.96,
       "paymentMethod": "PayPal",
       "paymentStatus": "Paid",
       "estimatedDispatchDate": "2024-10-01T00:00:00.000Z",
       "actualDispatchDate": "2024-10-01T00:00:00.000Z",
-      "fulfillmentStatus": "SHIPPED",
-      "deliveryMethodId": "EVRI-UK_STD",
-            "deliveryMethodName": "Evri UK Standard Delivery",
-            "fullTrackingUrl": "https://www.evri.com/en/standard/delivery.html?id=00340434267995634065"
+      "fulfillmentStatus": "DELIVERED",
+      "deliveryMethodId": "EVRI-UK_ND",
+            "deliveryMethodName": "Evri UK Next Day",
+            "fullTrackingUrl": "https://www.evri.com/en/nextday/delivery.html?id=00340434267995634065"
     },
     {
       "orderNumber": "987654322",
@@ -85,16 +85,16 @@
           "image": "https://d1rkccsb0jf1bk.cloudfront.net/products/100052274/main/large/H13431553.jpg"
         }
       ],
-      "shippingMethod": "Express Delivery",
+      "shippingMethod": "Standard Delivery",
       "orderTotal": 690.00,
       "paymentMethod": "AMEX",
       "paymentStatus": "Paid",
       "estimatedDispatchDate": "2024-10-10T00:00:00.000Z",
       "actualDispatchDate": "2024-10-12T00:00:00.000Z",
-      "fulfillmentStatus": "DELIVERED",
-      "deliveryMethodId": "EVRI-UK_ND",
-            "deliveryMethodName": "Evri UK Next Day",
-            "fullTrackingUrl": "https://www.evri.com/en/nextday/delivery.html?id=00340434267995634065"
+      "fulfillmentStatus": "SHIPPED",
+      "deliveryMethodId": "EVRI-UK_STD",
+            "deliveryMethodName": "Evri UK Standard Delivery",
+            "fullTrackingUrl": "https://www.evri.com/en/standard/delivery.html?id=00340434267995634065"
     }
   ]
 }
